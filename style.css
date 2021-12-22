@@ -14,6 +14,9 @@ p{
 .orange-highlight{
     color: orange;
 }
+#avatar-1{
+    margin-top: 60px;
+}
 .half-width{
     width: 40%;
     float: left;
@@ -30,6 +33,9 @@ p{
 section{
     height: 500px;
     padding-bottom: 150px;
+}
+#dream-area{
+    height: 400px;
 }
 .link-button{
     text-decoration: none;
@@ -65,7 +71,7 @@ section{
 }
 #pro{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, orange, tomato);
+    border-image: linear-gradient(180deg, #ffa500, tomato);
     border-image-slice: 1;
 }
 #baby{
